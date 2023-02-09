@@ -1,0 +1,13 @@
+
+
+export const CousersPage=()=>{
+
+    return <>
+    
+    
+    
+    </>
+
+
+
+}
